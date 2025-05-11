@@ -1,0 +1,35 @@
+.hero{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(rgba(10, 50, 5, 0.7),rgba(10, 50, 5, 0.7)), url('../../assets/heroImage.jpg') no-repeat center center/cover;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-text{
+    text-align: center;
+    max-width: 800px;
+}
+.hero-text h1{
+    font-size: 60px;
+    font-weight: 600;
+}
+.hero-text p{
+    margin: 10px auto 20px;
+    line-height: 1.4;
+}
+
+/*media query*/
+@media (max-width: 520px){
+    .hero-text h1{
+        font-size: 40px;
+    }
+    .hero-text p{
+        font-size: 14px;
+    }
+    .btn{
+        font-size: 14px;
+    }
+}
