@@ -16,6 +16,7 @@
 .aboutImage{
     width: 100%;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 .playImage{
@@ -24,6 +25,7 @@
     top : 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    cursor: pointer;
 }
 
 .about h3{
