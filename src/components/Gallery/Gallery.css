@@ -17,7 +17,7 @@
 }
 
 /*media query*/
-@media (max-width: 600px){
+@media (max-width: 800px){
     .gallery{
         flex-wrap: wrap;
     }

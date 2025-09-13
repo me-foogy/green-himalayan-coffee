@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-scroll';
-import './hero.css'
+import './Hero.css'
 
 const Hero = () => {
   return (

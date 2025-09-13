@@ -34,3 +34,14 @@
     flex: 1;
     margin : 10px auto;
 }
+
+/*media query*/
+
+@media (max-width: 800px){
+    .contact-col{
+        display:block;
+    }
+    .contact {
+        flex-direction: column;
+    }
+}

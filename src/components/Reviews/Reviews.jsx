@@ -82,7 +82,7 @@ const Reviews = () => {
                 </li>
             </ul>
         </div>
-              <button className='btn dark-btn'>See More &gt;</button>
+              <button className='btn dark-btn'><a href='https://www.google.com/maps/place/Green+Himalayan+Barista+Training+Center/@27.673004,85.3815194,17z/data=!4m8!3m7!1s0x39eb1b8c1a6461a5:0x49330e7e21764a38!8m2!3d27.6729993!4d85.3840943!9m1!1b1!16s%2Fg%2F11tn580f2_?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D'>See More &gt;</a></button>
     </div>
     
   )

@@ -22,7 +22,7 @@ nav ul li{
 }
 
 .dark-nav{
-    background: #212ea0;
+    background: var(--primary-color);
     transition: 0.5s;
 }
 

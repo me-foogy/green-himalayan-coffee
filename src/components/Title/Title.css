@@ -1,10 +1,19 @@
 .title{
     text-align: center;
-    color: #212ea0;
+    color: var(--secondary-color);
     font-size: 15px;
     font-weight: 600;
-    margin: 70px 0 10px;
+    margin: 50px 0 10px;
 }
 .title h1{
     font-size: 32px;
+}
+
+@media (max-width: 600px){
+    .title h1{
+        font-size: 32px;
+        font-weight: 600;
+        /* margin: 50px 0 2px; */
+    }
+    
 }

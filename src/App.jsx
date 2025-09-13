@@ -10,6 +10,8 @@ import Reviews from "./components/Reviews/Reviews";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
 
+/*primary color: #01582D*/
+
 const App = () => {
   return (
     <div>
